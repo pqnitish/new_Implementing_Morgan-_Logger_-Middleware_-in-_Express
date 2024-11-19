@@ -1,0 +1,26 @@
+{
+  "name": "new_implementing_morgan-_logger_-middleware_-in-_express",
+  "version": "1.0.0",
+  "description": "Topics Covered: Express.js Setup Middleware Integration HTTP Request Logging File System Operations with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/new_Implementing_Morgan-_Logger_-Middleware_-in-_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/new_Implementing_Morgan-_Logger_-Middleware_-in-_Express/issues"
+  },
+  "homepage": "https://github.com/pqnitish/new_Implementing_Morgan-_Logger_-Middleware_-in-_Express#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.7"
+  }
+}
